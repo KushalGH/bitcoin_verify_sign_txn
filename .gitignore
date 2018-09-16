@@ -1,0 +1,38 @@
+
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.sln
+*.orig
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+
+
+*.obj
+*.pdb
+*.suo
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+# Minification Files
+*.min.css
+*.min.css.map
+
+*.min.js.map
+node_modules/
+
